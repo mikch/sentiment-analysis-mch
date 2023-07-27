@@ -52,5 +52,9 @@ This project is currently maintained by me.
 (https://github.com/mikch)
 
 
+## License
+The program is licensed under the Apache License 2.0
+
+
 ## Contact
 For any questions or ideas regarding the project, you can reach me at m.xoust1992@gmail.com
